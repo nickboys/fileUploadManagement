@@ -1,0 +1,15 @@
+{
+    "ACTION": "CONT_VIEW",
+    "BIZ_INFO": {
+        "BASE_INFO": [
+            {
+                "BIZ_KEY": "BIZ_ID",
+                "BIZ_VAL": "${bizId}"
+            },
+            {
+                "BIZ_KEY": "CONTRACT_ID",
+                "BIZ_VAL": "${contractId}"
+            }
+        ]
+    }
+}

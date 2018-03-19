@@ -1,0 +1,15 @@
+{
+    "ACTION": "CONT_DOWNLOAD",
+    "BIZ_INFO": {
+        "BASE_INFO": [
+            {
+                "BIZ_KEY": "BIZ_ID",
+                "BIZ_VAL": "${appId}"
+            },
+            {
+                "BIZ_KEY": "CONTRACT_ID",
+                "BIZ_VAL": "${contractNo}"
+            }
+        ]
+    }
+}
